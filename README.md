@@ -29,7 +29,20 @@
 - Tableau (interactive dashboards & insights storytelling)
 - Power BI (currently learning for KPI dashboards)
 
-*Data Workflow*
+*Data Workflow (ETL)*
+- Extracting & preparing datasets
 - Data cleaning & preprocessing
 - Exploratory Data Analysis (EDA)
-- Visualizing findings & communicating insights
+- Communicating & visualizing insights
+
+
+  
+### 📊 Projects
+
+| Project | Tools Used | Description | Link |
+|--------|-------------|-------------|------|
+| Titanic Survival Analysis | Python (Pandas), Tableau | EDA on Titanic dataset (passenger class & age survival patterns) | [🔗 View Dashboard](https://public.tableau.com/views/TitanicI_TableauDashboardTableauPublic/Dashboard1?:language=en-US&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+
+> More projects coming soon as I continue learning and expanding my portfolio 🚀
+
+
