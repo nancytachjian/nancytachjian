@@ -4,6 +4,14 @@
 🛠️ Currently working with: *SQL • Python • Excel • Tableau*  
 📈 Building real-world portfolio projects to develop hands-on analytics skills
 
+### 🧠 Tech Stack  
+*Languages & Tools*  
+- SQL  
+- Python (Pandas, NumPy)  
+- Excel (PivotTables, Power Query)  
+- Tableau (dashboards & storytelling)  
+- Power BI (beginner | learning dashboards)
+  
 ### 🔍 What I'm currently doing
 - Building my data analytics portfolio (GitHub + Tableau Public)
 - Learning how to clean, analyze, and visualize data with Python & SQL
