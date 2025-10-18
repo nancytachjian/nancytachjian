@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Nancy Tachjian
 
-<!--
-**nancytachjian/nancytachjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Aspiring Data Analyst | Passionate about turning raw data into meaningful insights  
+🛠️ Currently working with: *SQL • Python • Excel • Tableau*  
+📈 Building real-world portfolio projects to develop hands-on analytics skills
 
-Here are some ideas to get you started:
+### 🔍 What I'm currently doing
+- Building my data analytics portfolio (GitHub + Tableau Public)
+- Learning how to clean, analyze, and visualize data with Python & SQL
+- Practicing dashboard design and storytelling using Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My goals
+- Gain strong practical experience through real datasets & portfolio projects
+- Grow into a junior data analyst role
+- Continue developing advanced analytics & visualization skills
+
+### 📫 How to reach me
+- *LinkedIn:* https://www.linkedin.com/in/nancy-tachjian
+- *Location:* Ontario, Canada
+
+- ### 🛠️ Tech Skills
+
+*Programming & Querying*
+- Python (Pandas, NumPy, exploratory data analysis, cleaning & transformation)
+- SQL (data filtering, joins, grouping & aggregation)
+
+*Analytics & Visualization*
+- Excel (PivotTables, Power Query, lookup functions)
+- Tableau (interactive dashboards & insights storytelling)
+- Power BI (currently learning for KPI dashboards)
+
+*Data Workflow*
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizing findings & communicating insights
